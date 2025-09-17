@@ -16,3 +16,13 @@ This repository is for uploading and sharing files for public download.
 ## Example
 
 - See example.txt for a sample public file download.
+- # Fork Anything You Want!
+
+Feel free to fork this repository or take any code and files you find here.
+
+- **No restrictions:** Download, use, modify, or redistribute anything in this repository.
+- **No attribution required:** You do not need to credit or ask permission.
+- **Enjoy!**
+
+Want to contribute or make something cooler? Fork, clone, or open a pull request anytime.
+Just know that I have no idea what im doing and most likely this wont work.
