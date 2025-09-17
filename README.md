@@ -10,9 +10,9 @@ This repository is for uploading and sharing files for public download.
 
 ## How to Download Files
 
-- Anyone can click on a file in the repository and use the **Download** button, or right-click the file link and select **Save link as...**.
+- Anyone can click on a file in the repository and use the Download button, or right-click the file link and select Save link as...
 - Direct links to raw files are available via the "Raw" button on individual file pages.
 
 ## Example
 
-- See `example.txt` for a sample public file download
+- See example.txt for a sample public file download.
