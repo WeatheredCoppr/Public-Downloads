@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Public Downloads</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      min-height: 100vh;
+      font-family: Arial, sans-serif;
+      margin: 2em;
+      /* Start with pastel blue */
+      background: linear-gradient(120deg, #b3d8fd, #cffffe);
+      animation: fadeBg 10s infinite alternate;
+      transition: background 1s;
+    }
+
+    @keyframes fadeBg {
+      0% {
+        background: linear-gradient(120deg, #b3d8fd, #cffffe);
+      }
+      50% {
+        background: linear-gradient(120deg, #cffffe, #00e6fa);
+      }
+      100% {
+        background: linear-gradient(120deg, #b3d8fd, #cffffe);
+      }
+    }
+
+    h1 { color: #346699; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin: 1em 0; }
+    a.download { color: #2a8; text-decoration: none; font-weight: bold; }
+    a.download:hover { text-decoration: underline; }
+    footer { margin-top: 2em; font-size: 0.95em; color: #555; }
+  </style>
+</head>
+<body>
+  <h1>Public Downloads</h1>
+  <p>Welcome! Files below are available for public download. Add more files to this repository to share.</p>
+  <ul>
+    <li>
+      <a class="download" href="example.txt" download>Download example.txt</a>
+      <span>— Sample public file</span>
+    </li>
+    <!-- Add more files here as you upload them -->
+  </ul>
+  <footer>
+    <p>Repository: <a href="https://github.com/WeatheredCoppr/public-downloads">WeatheredCoppr/public-downloads</a></p>
+  </footer>
+</body>
+</html>
